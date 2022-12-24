@@ -11,6 +11,9 @@ require("express-async-errors");
 
 const app = express();
 
+// Serve static assets from the 'public' directory
+app.use(express.static("public"));
+
 // Enable CORS for all routes
 app.use(cors());
 
