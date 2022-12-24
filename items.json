@@ -5,7 +5,7 @@
     "price": 49.99,
     "category": "Home Decor",
     "numberInStock": 25,
-    "url": "https://www.example.com/table-lamp",
+    "url": "./public/images/blackt.jpg",
     "createAt": "2022-01-01T12:00:00Z"
   },
 
@@ -15,7 +15,7 @@
     "price": 199.99,
     "category": "Clothing",
     "numberInStock": 10,
-    "url": "https://www.example.com/leather-jacket",
+    "url": "./public/images/blackt.jpg",
     "createAt": "2022-01-01T12:00:00Z"
   },
 
@@ -25,7 +25,7 @@
     "price": 99.99,
     "category": "Electronics",
     "numberInStock": 50,
-    "url": "https://www.example.com/bluetooth-headphones",
+    "url": "./public/images/blackt.jpg",
     "createAt": "2022-01-01T12:00:00Z"
   },
 
@@ -35,7 +35,7 @@
     "price": 119.99,
     "category": "Sports & Outdoors",
     "numberInStock": 15,
-    "url": "https://www.example.com/running-shoes",
+    "url": "./public/images/blackt.jpg",
     "createAt": "2022-01-01T12:00:00Z"
   }
 ]
