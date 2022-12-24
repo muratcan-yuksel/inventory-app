@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Table Lamp",
+    "description": "A stylish table lamp with a brushed metal finish.",
+    "price": 49.99,
+    "category": "Home Decor",
+    "numberInStock": 25,
+    "url": "https://www.example.com/table-lamp",
+    "createAt": "2022-01-01T12:00:00Z"
+  },
+
+  {
+    "name": "Leather Jacket",
+    "description": "A classic leather jacket with a zipper front and adjustable cuffs.",
+    "price": 199.99,
+    "category": "Clothing",
+    "numberInStock": 10,
+    "url": "https://www.example.com/leather-jacket",
+    "createAt": "2022-01-01T12:00:00Z"
+  },
+
+  {
+    "name": "Bluetooth Headphones",
+    "description": "Wireless headphones with noise-cancelling technology and a built-in microphone.",
+    "price": 99.99,
+    "category": "Electronics",
+    "numberInStock": 50,
+    "url": "https://www.example.com/bluetooth-headphones",
+    "createAt": "2022-01-01T12:00:00Z"
+  },
+
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with a breathable mesh upper and cushioned sole.",
+    "price": 119.99,
+    "category": "Sports & Outdoors",
+    "numberInStock": 15,
+    "url": "https://www.example.com/running-shoes",
+    "createAt": "2022-01-01T12:00:00Z"
+  }
+]
