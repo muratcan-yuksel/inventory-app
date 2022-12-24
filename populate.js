@@ -6,7 +6,7 @@ const Product = require("./models/Item");
 const start = async () => {
   try {
     await connectDB(process.env.MONGO_URI);
-    await Product.deleteMany();
+    // await Product.deleteMany();
     const products = jsonProducts.map((product) => {
       return {
         ...product,

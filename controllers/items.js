@@ -20,7 +20,7 @@ const createItem = asyncWrapper(async (req, res) => {
 });
 
 const updateItem = asyncWrapper(async (req, res) => {
-  const item = await Item.findOneAndUpdate(req.params, req.body, {
+  const item = await Item.findOneAndUpdate(req.params.id, req.body, {
     new: true,
     runValidators: true,
   });

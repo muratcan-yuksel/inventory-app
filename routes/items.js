@@ -11,6 +11,6 @@ const {
 
 router.route("/").get(getAllItems).post(createItem);
 
-router.route("/:id").get(getItem).put(updateItem).delete(deleteItem);
+router.route("/:id").get(getItem).patch(updateItem).delete(deleteItem);
 
 module.exports = router;
